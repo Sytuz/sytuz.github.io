@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+/* Global CSS variables */
+:root {
+    --primary-color:#C05C46;
+    --background-color:#FFFFFF;
+    --surface-color:#F5F5F5;
+    --foreground-color:#1E0E0A;
+}
